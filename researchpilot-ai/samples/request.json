@@ -1,0 +1,13 @@
+{
+  "question": "Which method is more reproducible and what experiment should be run next?",
+  "papers": [
+    {
+      "title": "Model A: Efficient Classification (synthetic example)",
+      "text": "We propose an efficient classification model on a public benchmark dataset. We compared with a logistic regression baseline. Accuracy was 89 percent on the held-out test set. We report random seed 42, hyperparameters, and implementation details. A limitation is sensitivity to distribution shift."
+    },
+    {
+      "title": "Model B: Novel Classification Architecture (synthetic example)",
+      "text": "We propose a novel architecture that outperforms previous work. Our experiment achieved 94 percent accuracy. We claim state of the art performance but provide no code or data source description."
+    }
+  ]
+}
